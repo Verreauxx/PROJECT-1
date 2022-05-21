@@ -333,12 +333,5 @@ function showPanel(placeResult) {
   infoPane.classList.add("open");
 }
 
-getAllPosts().then(response => {
-    console.log(response);
-}).catch(e => {
-    console.log(e);
-});
-
-
 
 
