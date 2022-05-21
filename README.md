@@ -94,4 +94,4 @@ Presentation 10%
 
 Collaboration 10%
 * There are no major disparities in the number of GitHub contributions between group members.
-Project link: https://justin-morrow.github.io/Project-1/
+Project link: https://verreauxx.github.io/Project-1/
